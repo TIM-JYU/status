@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/TIM-JYU/status/master/assets/tim-logo.svg
   name: TIM Status
   introTitle: "TIM (**T**he **I**nteractive **M**aterial) is an open-source cloud-based platform for creating interactive learning documents."
-  introMessage: You can view status of the TIM webside and its additional services.
+  introMessage: You can view status of the TIM website and its additional services.
   navbar:
     - title: Status
       href: /

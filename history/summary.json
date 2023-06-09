@@ -22,18 +22,19 @@
     "url": "https://api.timlist.it.jyu.fi/3.1",
     "icon": "https://icons.duckduckgo.com/ip3/api.timlist.it.jyu.fi.ico",
     "slug": "tim-email-lists",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 952,
     "timeDay": 745,
     "timeWeek": 847,
     "timeMonth": 952,
     "timeYear": 952,
     "dailyMinutesDown": {
+      "2023-06-09": 0,
       "2023-06-01": 239
     }
   }

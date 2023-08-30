@@ -4,18 +4,20 @@
     "url": "https://tim.jyu.fi",
     "icon": "https://icons.duckduckgo.com/ip3/tim.jyu.fi.ico",
     "slug": "tim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 871,
-    "timeWeek": 717,
-    "timeMonth": 727,
-    "timeYear": 721,
-    "dailyMinutesDown": {}
+    "time": 724,
+    "timeDay": 928,
+    "timeWeek": 751,
+    "timeMonth": 735,
+    "timeYear": 724,
+    "dailyMinutesDown": {
+      "2023-08-30": 0
+    }
   },
   {
     "name": "TIM Email Lists",

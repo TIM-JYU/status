@@ -4,7 +4,7 @@
     "url": "https://tim.jyu.fi",
     "icon": "https://icons.duckduckgo.com/ip3/tim.jyu.fi.ico",
     "slug": "tim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 663,
     "timeYear": 744,
     "dailyMinutesDown": {
+      "2024-05-25": 0,
       "2023-11-22": 12,
       "2023-09-19": 17
     }

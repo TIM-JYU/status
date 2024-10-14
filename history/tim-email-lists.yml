@@ -1,7 +1,7 @@
 url: https://api.timlist.it.jyu.fi/3.1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-14T07:50:21.501Z
+status: up
+code: 401
+responseTime: 1068
+lastUpdated: 2024-10-14T07:57:20.262Z
 startTime: 2023-05-25T21:49:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -28,7 +28,7 @@
     "url": "https://api.timlist.it.jyu.fi/3.1",
     "icon": "https://icons.duckduckgo.com/ip3/api.timlist.it.jyu.fi.ico",
     "slug": "tim-email-lists",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "98.51%",
     "uptimeWeek": "99.79%",
@@ -40,6 +40,7 @@
     "timeMonth": 1386,
     "timeYear": 1017,
     "dailyMinutesDown": {
+      "2025-09-06": 0,
       "2025-09-05": 21,
       "2025-02-15": 16,
       "2025-02-14": 496,

@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 849,
-    "timeDay": 1104,
-    "timeWeek": 884,
-    "timeMonth": 886,
-    "timeYear": 875,
+    "timeDay": 956,
+    "timeWeek": 942,
+    "timeMonth": 889,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2025-08-08": 49,
       "2025-04-19": 16,
-      "2025-02-15": 17,
-      "2025-02-01": 23
+      "2025-02-15": 17
     }
   },
   {
@@ -28,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.timlist.it.jyu.fi.ico",
     "slug": "tim-email-lists",
     "status": "down",
-    "uptime": "85.08%",
+    "uptime": "84.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.75%",
-    "time": 1027,
+    "uptimeYear": "60.47%",
+    "time": 1028,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2026-01-31": 154,
+      "2026-02-01": 196,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -187,8 +187,7 @@
       "2025-09-05": 21,
       "2025-02-15": 16,
       "2025-02-14": 496,
-      "2025-02-13": 184,
-      "2025-02-01": 23
+      "2025-02-13": 184
     }
   }
 ]

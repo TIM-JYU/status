@@ -20,3 +20,6 @@ status-website:
       href: https://tim.jyu.fi
     - title: Contact us
       href: mailto:tim@jyu.fi
+
+secrets:
+  - NOTIFICATION_TEAMS_WEBHOOK_URL

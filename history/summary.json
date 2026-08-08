@@ -6,11 +6,11 @@
     "slug": "tim",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.07%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "96.01%",
     "uptimeYear": "99.34%",
-    "time": 905,
+    "time": 906,
     "timeDay": 624,
     "timeWeek": 749,
     "timeMonth": 982,
@@ -24,7 +24,8 @@
       "2026-06-25": 756,
       "2026-07-17": 614,
       "2026-07-16": 783,
-      "2026-07-20": 327
+      "2026-07-20": 327,
+      "2026-08-08": 26
     }
   }
 ]

@@ -22,4 +22,5 @@ status-website:
       href: mailto:tim@jyu.fi
 
 secrets:
+  - NOTIFICATION_TEAMS
   - NOTIFICATION_TEAMS_WEBHOOK_URL

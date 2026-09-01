@@ -4,16 +4,16 @@
     "url": "https://tim.jyu.fi",
     "icon": "https://icons.duckduckgo.com/ip3/tim.jyu.fi.ico",
     "slug": "tim",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.34%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.33%",
     "time": 896,
-    "timeDay": 687,
-    "timeWeek": 816,
-    "timeMonth": 741,
+    "timeDay": 768,
+    "timeWeek": 828,
+    "timeMonth": 746,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2026-03-21": 19,
@@ -25,7 +25,8 @@
       "2026-07-17": 614,
       "2026-07-16": 783,
       "2026-07-20": 327,
-      "2026-08-08": 35
+      "2026-08-08": 35,
+      "2026-09-01": 5
     }
   }
 ]

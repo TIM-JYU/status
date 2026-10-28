@@ -1,7 +1,7 @@
 url: https://tim.jyu.fi
-status: up
-code: 200
-responseTime: 662
-lastUpdated: 2026-10-28T01:49:36.863Z
+status: down
+code: 500
+responseTime: 11774
+lastUpdated: 2026-10-28T03:23:03.437Z
 startTime: 2023-05-25T21:49:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
